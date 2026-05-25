@@ -1961,7 +1961,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1"
+		(property "Value" "15"
 			(at 74.93 62.1001 0)
 			(show_name no)
 			(do_not_autoplace no)
