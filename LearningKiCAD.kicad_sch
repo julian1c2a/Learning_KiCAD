@@ -278,6 +278,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(wire
+		(pts
+			(xy 101.6 76.2) (xy 101.6 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ffd8780-5f3c-42af-a1de-41780b305275")
+	)
+	(wire
+		(pts
+			(xy 130.81 76.2) (xy 101.6 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66689f65-a8c4-4d50-af8e-1df3e8818c10")
+	)
 	(symbol
 		(lib_id "Amplifier_Operational:ADA4075-2")
 		(at 46.99 55.88 0)
