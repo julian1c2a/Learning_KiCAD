@@ -1489,7 +1489,8 @@
 	)
 	(symbol
 		(lib_id "power:VDC")
-		(at 27.94 64.77 0)
+		(at 71.12 71.12 0)
+		(mirror x)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1497,10 +1498,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2474a1c5-6e6d-4ff6-be32-fd76de6cabf4")
 		(property "Reference" "#PWR03"
-			(at 27.94 68.58 0)
+			(at 71.12 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1511,7 +1511,7 @@
 			)
 		)
 		(property "Value" "VDC"
-			(at 27.94 59.69 0)
+			(at 71.12 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1521,7 +1521,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 27.94 64.77 0)
+			(at 71.12 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1532,7 +1532,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 27.94 64.77 0)
+			(at 71.12 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1543,7 +1543,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VDC\""
-			(at 27.94 64.77 0)
+			(at 71.12 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
