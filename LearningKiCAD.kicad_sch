@@ -278,6 +278,32 @@
 			(embedded_fonts no)
 		)
 	)
+	(junction
+		(at 146.05 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "86c2cee2-a6dc-47ad-bf49-32d02db05f7d")
+	)
+	(wire
+		(pts
+			(xy 130.81 87.63) (xy 149.86 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00531f82-e6c9-442f-af3a-ff73b41faff8")
+	)
+	(wire
+		(pts
+			(xy 149.86 87.63) (xy 149.86 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ae05008-4861-453a-a104-bc9636df2713")
+	)
 	(wire
 		(pts
 			(xy 101.6 76.2) (xy 101.6 77.47)
@@ -297,6 +323,36 @@
 			(type default)
 		)
 		(uuid "66689f65-a8c4-4d50-af8e-1df3e8818c10")
+	)
+	(wire
+		(pts
+			(xy 144.78 78.74) (xy 146.05 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bda56485-2239-4c63-bc23-b30e6241c334")
+	)
+	(wire
+		(pts
+			(xy 146.05 78.74) (xy 149.86 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dfa829ee-0865-4f25-b7ad-899f79572115")
+	)
+	(wire
+		(pts
+			(xy 130.81 81.28) (xy 130.81 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3e40053-4808-4b41-80ca-39accb4d014d")
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:ADA4075-2")
