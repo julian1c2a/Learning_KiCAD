@@ -689,6 +689,16 @@
 		)
 		(uuid "e3e40053-4808-4b41-80ca-39accb4d014d")
 	)
+	(label "out"
+		(at 149.86 85.09 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "11d09fbb-c5ca-4be0-a14a-d3fd476e2644")
+	)
 	(symbol
 		(lib_id "Simulation_SPICE:VSIN")
 		(at 101.6 91.44 0)
