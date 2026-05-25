@@ -479,6 +479,7 @@
 	(symbol
 		(lib_id "Amplifier_Operational:ADA4075-2")
 		(at 138.43 105.41 0)
+		(mirror x)
 		(unit 2)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -486,10 +487,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "63bd2f18-5aa4-4dc1-abbd-b36381f4544f")
 		(property "Reference" "U1"
-			(at 138.43 95.25 0)
+			(at 138.43 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -499,7 +499,7 @@
 			)
 		)
 		(property "Value" "ADA4075-2"
-			(at 138.43 97.79 0)
+			(at 138.43 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
