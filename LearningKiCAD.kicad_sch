@@ -1510,7 +1510,7 @@
 				)
 			)
 		)
-		(property "Value" "VDC"
+		(property "Value" "Vdd"
 			(at 71.12 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
