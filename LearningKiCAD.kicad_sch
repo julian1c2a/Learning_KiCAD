@@ -345,6 +345,17 @@
 				)
 			)
 		)
+		(property "Sim.Library" "C:\\msys64\\ucrt64\\share\\kicad\\symbols\\Amplifier_Operational.kicad_sym"
+			(at 46.99 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "fabe67ea-0637-44d5-8d40-453f780cd84e")
 		)
@@ -443,6 +454,17 @@
 				)
 			)
 		)
+		(property "Sim.Library" "C:\\msys64\\ucrt64\\share\\kicad\\symbols\\Amplifier_Operational.kicad_sym"
+			(at 138.43 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "fabe67ea-0637-44d5-8d40-453f780cd84e")
 		)
@@ -531,6 +553,17 @@
 			)
 		)
 		(property "Description" "Ultralow Noise Amplifier at Lower Power, SOIC-8/LFCSP-8"
+			(at 138.43 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Library" "C:\\msys64\\ucrt64\\share\\kicad\\symbols\\Amplifier_Operational.kicad_sym"
 			(at 138.43 105.41 0)
 			(hide yes)
 			(show_name no)
