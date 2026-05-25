@@ -1095,16 +1095,6 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 64.77) (xy 44.45 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "df5f980c-f948-456c-b3e6-c9a0eed35e5b")
-	)
-	(wire
-		(pts
 			(xy 146.05 78.74) (xy 149.86 78.74)
 		)
 		(stroke
@@ -1979,7 +1969,7 @@
 				)
 			)
 		)
-		(property "Value" "VDC"
+		(property "Value" "Vcc"
 			(at 71.12 26.67 0)
 			(show_name no)
 			(do_not_autoplace no)
