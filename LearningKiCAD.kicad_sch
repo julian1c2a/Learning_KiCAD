@@ -280,6 +280,106 @@
 	)
 	(symbol
 		(lib_id "Amplifier_Operational:ADA4075-2")
+		(at 46.99 55.88 0)
+		(unit 3)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "18eb26ee-e956-4ce7-acd8-137d3173ec31")
+		(property "Reference" "U1"
+			(at 45.72 54.6099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "ADA4075-2"
+			(at 45.72 57.1499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 46.99 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.analog.com/static/imported-files/data_sheets/ADA4075-2.pdf"
+			(at 46.99 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Ultralow Noise Amplifier at Lower Power, SOIC-8/LFCSP-8"
+			(at 46.99 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "fabe67ea-0637-44d5-8d40-453f780cd84e")
+		)
+		(pin "2"
+			(uuid "1074d2fe-1d4a-4538-affe-79477591a06d")
+		)
+		(pin "1"
+			(uuid "7a92add0-2a89-4625-a89c-716408701351")
+		)
+		(pin "5"
+			(uuid "7a311da2-95cd-47ba-bec8-6c93fbf87fdc")
+		)
+		(pin "7"
+			(uuid "b095d5c0-ce17-4b8f-8b82-9c24e6bc85a5")
+		)
+		(pin "8"
+			(uuid "1cc574f4-9f7a-4ea8-a316-f3055f52274c")
+		)
+		(pin "4"
+			(uuid "bba7883d-b455-452b-855b-6702684ed976")
+		)
+		(pin "6"
+			(uuid "f89926ed-3fa7-4341-8c47-e8f3f72fc8b2")
+		)
+		(instances
+			(project "LearningKiCAD"
+				(path "/61d3d1c1-c158-4903-81b9-c929de3a922a"
+					(reference "U1")
+					(unit 3)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Amplifier_Operational:ADA4075-2")
 		(at 138.43 78.74 0)
 		(unit 1)
 		(body_style 1)
