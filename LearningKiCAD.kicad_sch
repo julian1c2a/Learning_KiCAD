@@ -964,6 +964,16 @@
 		)
 		(uuid "207e17c5-dadb-4f00-ac1c-3695f2752f96")
 	)
+	(label ""
+		(at 143.51 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "55c7e526-71ce-4a41-baa3-c45b3f375a00")
+	)
 	(symbol
 		(lib_id "power:GND")
 		(at 116.84 93.98 0)
