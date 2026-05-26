@@ -454,6 +454,16 @@
 		)
 		(uuid "a66aa929-6ab3-4258-880b-ac7307299506")
 	)
+	(label "in"
+		(at 83.82 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "207e17c5-dadb-4f00-ac1c-3695f2752f96")
+	)
 	(symbol
 		(lib_id "Simulation_SPICE:OPAMP")
 		(at 129.54 72.39 0)
