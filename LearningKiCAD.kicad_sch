@@ -927,6 +927,16 @@
 	)
 	(wire
 		(pts
+			(xy 119.38 74.93) (xy 121.92 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e3b8ee2-358d-46e0-8002-3d8d53a9e6b9")
+	)
+	(wire
+		(pts
 			(xy 31.75 31.75) (xy 127 31.75)
 		)
 		(stroke
@@ -954,6 +964,16 @@
 			(type default)
 		)
 		(uuid "4edb2a84-c406-431d-9472-63b2e2d2b167")
+	)
+	(wire
+		(pts
+			(xy 119.38 91.44) (xy 119.38 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ae54772-35da-4389-ba1b-fc6a4f439df8")
 	)
 	(wire
 		(pts
@@ -1216,84 +1236,6 @@
 			(project "LearningKiCAD"
 				(path "/61d3d1c1-c158-4903-81b9-c929de3a922a"
 					(reference "V3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 40.64 76.2 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "81444f8b-3f1f-4e48-bccc-5271ef1edacb")
-		(property "Reference" "#PWR02"
-			(at 40.64 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 40.64 81.28 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 40.64 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 40.64 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 40.64 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "95633400-37d7-4dc1-a3d4-a4612025bf21")
-		)
-		(instances
-			(project "LearningKiCAD"
-				(path "/61d3d1c1-c158-4903-81b9-c929de3a922a"
-					(reference "#PWR02")
 					(unit 1)
 				)
 			)
