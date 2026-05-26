@@ -1,5 +1,0 @@
-# KiCad local history exclusions. Edit to add your own rules.
-~*
-*.lck
-fp-info-cache
-*-backups/
