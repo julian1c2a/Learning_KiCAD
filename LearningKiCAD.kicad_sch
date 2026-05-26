@@ -868,16 +868,6 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 93.98) (xy 116.84 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7a1980ec-e603-42e6-b133-0d77eb4821da")
-	)
-	(wire
-		(pts
 			(xy 31.75 93.98) (xy 31.75 124.46)
 		)
 		(stroke
@@ -885,16 +875,6 @@
 			(type default)
 		)
 		(uuid "7b68eb8e-461c-4834-8d06-af51cfd49ce0")
-	)
-	(wire
-		(pts
-			(xy 116.84 74.93) (xy 121.92 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7d3aa7e5-20ef-45d6-9bd0-bece12597fab")
 	)
 	(wire
 		(pts
@@ -1065,84 +1045,6 @@
 			(justify left bottom)
 		)
 		(uuid "8ccef780-965d-44d6-b2a7-b862a517ab81")
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 116.84 93.98 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0615dcb6-9236-41e2-9ef7-5b798cbd60e7")
-		(property "Reference" "#PWR03"
-			(at 116.84 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 116.84 99.06 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 116.84 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 116.84 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 116.84 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f4390b42-ce47-48ba-8341-094796371859")
-		)
-		(instances
-			(project "LearningKiCAD"
-				(path "/61d3d1c1-c158-4903-81b9-c929de3a922a"
-					(reference "#PWR03")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "Simulation_SPICE:VDC")
