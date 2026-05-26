@@ -310,6 +310,17 @@
 				)
 			)
 		)
+		(property "Sim.Name" "<desconocido>"
+			(at 129.54 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7fba671a-4209-4bd2-8ce1-6a29c3d49111")
 		)
