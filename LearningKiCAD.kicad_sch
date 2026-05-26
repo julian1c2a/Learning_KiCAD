@@ -944,6 +944,16 @@
 		)
 		(uuid "e48b4610-e879-49fa-800c-014c593b324d")
 	)
+	(wire
+		(pts
+			(xy 137.16 72.39) (xy 154.94 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd428456-32f0-4323-831c-2b7f8165d6cb")
+	)
 	(label "in"
 		(at 88.9 66.04 0)
 		(effects
