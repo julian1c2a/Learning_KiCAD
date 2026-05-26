@@ -444,6 +444,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(wire
+		(pts
+			(xy 59.69 69.85) (xy 121.92 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a66aa929-6ab3-4258-880b-ac7307299506")
+	)
 	(symbol
 		(lib_id "Simulation_SPICE:OPAMP")
 		(at 129.54 72.39 0)
