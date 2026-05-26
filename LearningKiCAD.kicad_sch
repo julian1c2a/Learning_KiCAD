@@ -789,12 +789,6 @@
 		(uuid "19b50af6-6ca0-4583-93a3-1b04d32256a8")
 	)
 	(junction
-		(at 82.55 33.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4723a3ac-6176-4d49-b078-4ca87b79a4d8")
-	)
-	(junction
 		(at 88.9 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -818,26 +812,6 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 33.02) (xy 82.55 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2a33c934-d1b6-4ae2-a191-f422ffe5d350")
-	)
-	(wire
-		(pts
-			(xy 127 33.02) (xy 127 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c4bb8f5-2114-4441-b03f-3bb443ca2ec2")
-	)
-	(wire
-		(pts
 			(xy 59.69 80.01) (xy 59.69 87.63)
 		)
 		(stroke
@@ -855,26 +829,6 @@
 			(type default)
 		)
 		(uuid "6eabf64a-97d7-48a7-9294-d4c78cac9b56")
-	)
-	(wire
-		(pts
-			(xy 82.55 29.21) (xy 82.55 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "76e015f3-aa66-4fa1-81b7-800aa528d30b")
-	)
-	(wire
-		(pts
-			(xy 82.55 33.02) (xy 127 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "794043c8-d46d-401b-acb4-e3658c0f5a77")
 	)
 	(wire
 		(pts
@@ -995,16 +949,6 @@
 			(justify left bottom)
 		)
 		(uuid "8ccef780-965d-44d6-b2a7-b862a517ab81")
-	)
-	(label "cc"
-		(at 82.55 29.21 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "fc2bcf6e-95e5-4513-8726-296fef011921")
 	)
 	(symbol
 		(lib_id "Simulation_SPICE:VDC")
