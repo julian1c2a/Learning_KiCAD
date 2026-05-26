@@ -444,9 +444,25 @@
 			(embedded_fonts no)
 		)
 	)
+	(junction
+		(at 87.63 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b1de1528-0194-4b7c-b13f-4b6bbb9407a8")
+	)
 	(wire
 		(pts
-			(xy 59.69 69.85) (xy 121.92 69.85)
+			(xy 87.63 69.85) (xy 121.92 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33b3003d-2355-437c-add5-5ecf076733c8")
+	)
+	(wire
+		(pts
+			(xy 59.69 69.85) (xy 87.63 69.85)
 		)
 		(stroke
 			(width 0)
@@ -454,8 +470,18 @@
 		)
 		(uuid "a66aa929-6ab3-4258-880b-ac7307299506")
 	)
+	(wire
+		(pts
+			(xy 87.63 62.23) (xy 87.63 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aada3336-e9a0-425c-a631-c6481e6d3e66")
+	)
 	(label "in"
-		(at 83.82 69.85 0)
+		(at 87.63 62.23 0)
 		(effects
 			(font
 				(size 1.27 1.27)
